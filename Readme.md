@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I’m a Computer Engineering student with a strong interest in **AI/ML, Data Science, and Web Development**.  
+I’m a Computer Engineering student with a strong interest in **Data Science and Web Development**.  
 I enjoy turning ideas into working projects—whether that’s a predictive ML model or a responsive website.  
 
 Beyond coding, I love learning new technologies, problem-solving, and exploring how different domains of tech connect together.
