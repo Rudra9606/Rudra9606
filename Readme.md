@@ -81,9 +81,9 @@ It worked great—except it scheduled coding at 2 AM! 😅
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Rudra9606&theme=dark&hide_border=true)](https://github.com/Rudra9606)
 
 <p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Rudra9606&theme=dark&hide_border=true)](https://github.com/Rudra9606)
   <img src="https://github-readme-stats.vercel.app/api?username=Rudra9606&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra9606&theme=tokyonight" alt="GitHub Streak" />
